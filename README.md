@@ -28,3 +28,4 @@
 #### Register a minigame
 
 > See a working example [here](https://github.com/AzaleaLibrary/ExampleMinigame).
+# SyperCore
